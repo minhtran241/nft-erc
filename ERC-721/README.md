@@ -8,4 +8,4 @@
 
 ---
 
-The template contract I built based on ***ERC-721*** is deployed at address [0x594E159854c92D1f2649A8678600075c8847AbE4](https://goerli.etherscan.io/address/0x594E159854c92D1f2649A8678600075c8847AbE4) and is available inside [ethereum/contracts](https://github.com/minhtran241/nft-erc/tree/main/ERC-721/contracts/Web3Builder.sol). You can explore the deployed contract on TESTNET Goerli (GTH) Blockchain Explorer (Etherscan) at [here](https://goerli.etherscan.io/address/0x594E159854c92D1f2649A8678600075c8847AbE4).
+The template contract I built based on ***ERC-721*** is deployed at address [0x594E159854c92D1f2649A8678600075c8847AbE4](https://goerli.etherscan.io/address/0x594E159854c92D1f2649A8678600075c8847AbE4) and is available inside [contracts/Web3Builder.sol](https://github.com/minhtran241/nft-erc/tree/main/ERC-721/contracts/Web3Builder.sol). You can explore the deployed contract on TESTNET Goerli (GTH) Blockchain Explorer (Etherscan) at [here](https://goerli.etherscan.io/address/0x594E159854c92D1f2649A8678600075c8847AbE4).
